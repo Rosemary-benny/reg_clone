@@ -1,3 +1,3 @@
 # reg_clone
-This is the code for simple Registration Page clone of TinkerHub made using HTML, NODEJS and MONGODB.
-This was made to collect data and show demo of a bot project that requires similar info.
+This is the code for the clone of the TinkerHub Registration Page made using HTML, NODEJS and MongoDB.
+This was made to collect data and show the demo of a bot project that requires similar info.
