@@ -1,5 +1,6 @@
 var express = require("express");
 var app = express();
+require("dotenv").config();
 var port = 3000;
 var bodyParser = require('body-parser');
 app.use(bodyParser.json());
